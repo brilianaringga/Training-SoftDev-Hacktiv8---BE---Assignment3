@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "mysecretpassword",
+    "database": "db_assignment3",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "test": {
+    "username": "postgres",
+    "password": "mysecretpassword",
+    "database": "db_assignment3",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "production": {
+    "username": "postgres",
+    "password": null,
+    "database": "db_assignment3",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  }
+}
